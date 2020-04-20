@@ -1,5 +1,4 @@
-# Adafruit DHT Humidity & Temperature Sensor Library [![Build Status](https://travis-ci.com/adafruit/DHT-sensor-library.svg?branch=master)](https://travis-ci.com/adafruit/DHT-sensor-library)
-
+# informtion on our projet 
 ## Description
 
 An Arduino library for the DHT series of low-cost temperature/humidity sensors.
