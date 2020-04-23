@@ -4,7 +4,7 @@
 
 our project aims to create a program that will automatically manage the temperature and humidity of a plant.
 
-### Equipment
+## Equipment
 
      -an arduino card
      -Pressure regulator
