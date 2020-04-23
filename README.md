@@ -13,3 +13,13 @@ our project aims to create a program that will automatically manage the temperat
      -a pot
      -a plant
      -an internal battery
+     
+## Advantages and Disadvantages
+
+### Advantages:
+
+our project aims to help people in their daily life because we know very well that we often forget to water our plants and when it dies it is already too late. so we thought about how to fix it.
+advantages are :
+     
+     -
+
