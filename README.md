@@ -24,8 +24,4 @@ advantages are :
      -economic
      -futuristic
      -smart
-     
-### Disavantages:
-
-if the pot is not placed in a place where there is the sun it will be impossible IA pot to do its work and on top of that it does not have the possibility of doing itself photosynthesis in case it does there will be no sun.
-
+ 
